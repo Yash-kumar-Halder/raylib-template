@@ -1,5 +1,5 @@
 const r = require("raylib");
-const sketch = require("./sketch");
+const sketch = require("./module/sketch");
 console.log(sketch);
 
 
